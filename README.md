@@ -1,5 +1,4 @@
-
-#  Welcome to Recycle-Bot ♻️🤖
+# Welcome to Recycle-Bot ♻️🤖
 
 ### About This Repository
 
@@ -7,6 +6,8 @@ This repository contains my project for **McMaster University Engineering 1P13 P
 
 ### Repository Structure 📁
 
+- **Common/**  
   Essential libraries and assets for Q-Labs simulation, including hardware interfaces and utility scripts.
 
+- **Student_Files/**  
   Your main workspace! Contains the executable code (`main.py`) and simulation assets for running the full recycling system.
